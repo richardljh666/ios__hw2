@@ -13,6 +13,7 @@ struct centerinfo: View {
         ZStack{
             VStack{
                 Text(Center.playername)
+                Text(Center.inf)
             }
         }
     }

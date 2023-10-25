@@ -13,6 +13,7 @@ struct backcourtinfo: View {
         ZStack{
             VStack{
                 Text(Backcourt.playername)
+                Text(Backcourt.inf)
             }
         }
     }
